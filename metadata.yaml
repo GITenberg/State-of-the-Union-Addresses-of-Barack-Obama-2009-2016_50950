@@ -1,4 +1,8 @@
 _repo: State-of-the-Union-Addresses-of-Barack-Obama-2009-2016_50950
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Obama, Barack
@@ -7,6 +11,8 @@ creator:
     gutenberg_agent_id: '32943'
     url: http://www.gutenberg.org/2009/agents/32943
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50950#State-of-the-Union-Addresses-of-Barack-Obama-2009-2016
 gutenberg_issued: '2016-01-17'
 gutenberg_type: Text
 identifiers:
